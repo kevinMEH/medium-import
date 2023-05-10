@@ -6,7 +6,7 @@ description: Provide insights into the challenges product managers face in scali
 ---
 # Overcoming Challenges in Scaling a Tech Startup: A Product Managers Perspective
 
-![Overcoming Challenges in Scaling a Tech Startup: A Product Managers Perspective](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/52-overcoming-challenges-in-scaling-a-tech-startup.png)
+![Overcoming Challenges in Scaling a Tech Startup: A Product Managers Perspective](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/52-overcoming-challenges-in-scaling-a-tech-startup.png)
 
 ## I. Understanding the Role of Product Managers in Scaling Tech Startups
 

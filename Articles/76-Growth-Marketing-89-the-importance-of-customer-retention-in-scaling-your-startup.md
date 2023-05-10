@@ -6,7 +6,7 @@ description: Explore the critical role that customer retention plays in the succ
 ---
 # The Importance of Customer Retention in Scaling Your Startup
 
-![The Importance of Customer Retention in Scaling Your Startup](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/89-the-importance-of-customer-retention-in-scaling-your-startup.png)
+![The Importance of Customer Retention in Scaling Your Startup](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/89-the-importance-of-customer-retention-in-scaling-your-startup.png)
 
 ## I. The Impact of Customer Retention on Scaling Your Tech Startup
 

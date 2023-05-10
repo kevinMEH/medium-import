@@ -6,7 +6,7 @@ description: This article discusses how to implement agile methodology in produc
 ---
 # How to Implement Agile Methodology in Product Management for Startups
 
-![How to Implement Agile Methodology in Product Management for Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/33-how-to-implement-agile-methodology-in-product-management-for-startups.png)
+![How to Implement Agile Methodology in Product Management for Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/33-how-to-implement-agile-methodology-in-product-management-for-startups.png)
 
 ## I. Understanding Agile Methodology for Startups
 

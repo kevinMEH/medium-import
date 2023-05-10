@@ -6,7 +6,7 @@ description: As a product management expert with over a decade of experience wor
 ---
 # AI Is Disrupting Product Management - Heres What You Need to Know
 
-![AI Is Disrupting Product Management - Heres What You Need to Know](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/20-ai-is-disrupting-product-management---heres-what-you-need-to-know.png)
+![AI Is Disrupting Product Management - Heres What You Need to Know](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/20-ai-is-disrupting-product-management---heres-what-you-need-to-know.png)
 
 ## I. AI's impact on Product Management
 

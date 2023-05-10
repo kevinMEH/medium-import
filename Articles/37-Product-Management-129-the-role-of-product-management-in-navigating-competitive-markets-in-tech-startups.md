@@ -6,7 +6,7 @@ description: This article discusses the role of product management in navigating
 ---
 # The Role of Product Management in Navigating Competitive Markets in Tech Startups
 
-![The Role of Product Management in Navigating Competitive Markets in Tech Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/129-the-role-of-product-management-in-navigating-competitive-markets-in-tech-startups.png)
+![The Role of Product Management in Navigating Competitive Markets in Tech Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/129-the-role-of-product-management-in-navigating-competitive-markets-in-tech-startups.png)
 
 ## I. Understanding Competitive Markets in Tech Startups
 

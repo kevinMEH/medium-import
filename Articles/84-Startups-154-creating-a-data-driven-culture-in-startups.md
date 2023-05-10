@@ -6,7 +6,7 @@ description: Discuss the importance of data-driven decision making in startups a
 ---
 # Creating a Data-Driven Culture in Startups
 
-![Creating a Data-Driven Culture in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/154-creating-a-data-driven-culture-in-startups.png)
+![Creating a Data-Driven Culture in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/154-creating-a-data-driven-culture-in-startups.png)
 
 ## I. The Power of Data-Driven Decisions
 

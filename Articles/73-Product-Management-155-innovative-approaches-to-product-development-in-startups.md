@@ -6,7 +6,7 @@ description: Share innovative approaches to product development in startups, dra
 ---
 # Innovative Approaches to Product Development in Startups
 
-![Innovative Approaches to Product Development in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/155-innovative-approaches-to-product-development-in-startups.png)
+![Innovative Approaches to Product Development in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/155-innovative-approaches-to-product-development-in-startups.png)
 
 ## I. The Importance of Innovation in Product Development
 

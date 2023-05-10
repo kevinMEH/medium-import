@@ -6,7 +6,7 @@ description: This article discusses the importance of crafting a compelling prod
 ---
 # Crafting a Product Story for Tech Startups: Tips and Best Practices
 
-![Crafting a Product Story for Tech Startups: Tips and Best Practices](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/130-crafting-a-product-story-for-tech-startups.png)
+![Crafting a Product Story for Tech Startups: Tips and Best Practices](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/130-crafting-a-product-story-for-tech-startups.png)
 
 ## I. Why Tech Startups Need a Compelling Product Story
 

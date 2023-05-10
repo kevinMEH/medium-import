@@ -6,7 +6,7 @@ description: Highlight the importance of user-centric product design in startup 
 ---
 # The Importance of User-Centric Product Design in Startup Success
 
-![The Importance of User-Centric Product Design in Startup Success](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/54-the-importance-of-user-centric-product-design-in-startup-success.png)
+![The Importance of User-Centric Product Design in Startup Success](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/54-the-importance-of-user-centric-product-design-in-startup-success.png)
 
 ## I. Why User-Centric Product Design is Crucial for Startups
 

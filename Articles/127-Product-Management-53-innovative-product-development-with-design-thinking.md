@@ -6,7 +6,7 @@ description: Explore the use of design thinking in innovative product developmen
 ---
 # Innovative Product Development with Design Thinking: Case Studies and Best Practices
 
-![Innovative Product Development with Design Thinking: Case Studies and Best Practices](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/53-innovative-product-development-with-design-thinking.png)
+![Innovative Product Development with Design Thinking: Case Studies and Best Practices](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/53-innovative-product-development-with-design-thinking.png)
 
 ## I. The Power of Design Thinking in Product Development
 

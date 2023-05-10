@@ -6,7 +6,7 @@ description: This article provides strategies for maximizing productivity when w
 ---
 # Maximizing Productivity with Remote Teams in Technology Startups
 
-![Maximizing Productivity with Remote Teams in Technology Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/19-maximizing-productivity-with-remote-teams-in-technology-startups.png)
+![Maximizing Productivity with Remote Teams in Technology Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/19-maximizing-productivity-with-remote-teams-in-technology-startups.png)
 
 ## I. Strategies for Maximizing Productivity with Remote Teams in Technology Startups
 

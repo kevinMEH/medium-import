@@ -6,7 +6,7 @@ description: Discuss the various types of risk that arise when scaling tech star
 ---
 # Managing Risk in Scaling Your Startup
 
-![Managing Risk in Scaling Your Startup](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/88-managing-risk-in-scaling-your-startup.png)
+![Managing Risk in Scaling Your Startup](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/88-managing-risk-in-scaling-your-startup.png)
 
 ## I. Understanding the Risks Involved in Scaling Your Startup
 

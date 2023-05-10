@@ -6,7 +6,7 @@ description: Share insights on the benefits of conducting user research in produ
 ---
 # The Benefits of Conducting User Research to Build Better Products
 
-![The Benefits of Conducting User Research to Build Better Products](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/95-the-benefits-of-conducting-user-research-to-build-better-products.png)
+![The Benefits of Conducting User Research to Build Better Products](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/95-the-benefits-of-conducting-user-research-to-build-better-products.png)
 
 ## I. Unlocking the Secrets to Better Products
 

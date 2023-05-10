@@ -6,7 +6,7 @@ description: Discuss the psychological barriers to innovation in startups and sh
 ---
 # The Psychology of Innovation: Overcoming Resistance to Change in Startups 
 
-![The Psychology of Innovation: Overcoming Resistance to Change in Startups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/151-the-psychology-of-innovation.png)
+![The Psychology of Innovation: Overcoming Resistance to Change in Startups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/151-the-psychology-of-innovation.png)
 
 ## I. Overcoming Resistance to Change - A Necessity for Successful Startups
 

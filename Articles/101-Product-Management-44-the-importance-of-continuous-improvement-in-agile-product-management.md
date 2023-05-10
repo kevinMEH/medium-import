@@ -6,7 +6,7 @@ description: This article discusses the importance of continuous improvement in 
 ---
 # The Importance of Continuous Improvement in Agile Product Management
 
-![The Importance of Continuous Improvement in Agile Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/44-the-importance-of-continuous-improvement-in-agile-product-management.png)
+![The Importance of Continuous Improvement in Agile Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/44-the-importance-of-continuous-improvement-in-agile-product-management.png)
 
 ## I. Why Continuous Improvement is Critical for Agile Product Management
 

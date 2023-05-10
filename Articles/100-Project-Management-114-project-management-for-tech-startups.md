@@ -6,7 +6,7 @@ description: This article discusses best practices for project management in tec
 ---
 # Project Management for Tech Startups: Best Practices for Success
 
-![Project Management for Tech Startups: Best Practices for Success](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/114-project-management-for-tech-startups.png)
+![Project Management for Tech Startups: Best Practices for Success](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/114-project-management-for-tech-startups.png)
 
 ## I. The Importance of Effective Project Management
 

@@ -6,7 +6,7 @@ description: Explore the challenges of balancing innovation with risk aversion i
 ---
 # Innovation vs. Risk Aversion: Striking the Right Balance in Startups 
 
-![Innovation vs. Risk Aversion: Striking the Right Balance in Startups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/148-innovation-vs.-risk-aversion)
+![Innovation vs. Risk Aversion: Striking the Right Balance in Startups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/148-innovation-vs.-risk-aversion)
 
 ## I. Balancing Innovation and Risk Aversion in Startups
 

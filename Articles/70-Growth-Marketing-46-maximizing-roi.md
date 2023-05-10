@@ -6,7 +6,7 @@ description: This article will explore the advantages of diversifying your growt
 ---
 # Maximizing ROI: The Benefits of a Multi-Channel Growth Marketing Approach 
 
-![Maximizing ROI: The Benefits of a Multi-Channel Growth Marketing Approach ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/46-maximizing-roi.png)
+![Maximizing ROI: The Benefits of a Multi-Channel Growth Marketing Approach ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/46-maximizing-roi.png)
 
 ## I. The Importance of a Multi-Channel Growth Marketing Approach
 

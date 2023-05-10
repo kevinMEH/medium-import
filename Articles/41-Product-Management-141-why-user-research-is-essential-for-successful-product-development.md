@@ -6,7 +6,7 @@ description: As a director of product with over 10 years of experience working f
 ---
 # Why User Research is Essential for Successful Product Development 
 
-![Why User Research is Essential for Successful Product Development ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/141-why-user-research-is-essential-for-successful-product-development-.png)
+![Why User Research is Essential for Successful Product Development ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/141-why-user-research-is-essential-for-successful-product-development-.png)
 
 ## I. The Importance of User Research in Product Development 
 

@@ -6,7 +6,7 @@ description: This article provides tips and best practices for building a strong
 ---
 # How to Build a Strong Product Management Team in a Startup Environment
 
-![How to Build a Strong Product Management Team in a Startup Environment](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/107-how-to-build-a-strong-product-management-team-in-a-startup-environment.png)
+![How to Build a Strong Product Management Team in a Startup Environment](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/107-how-to-build-a-strong-product-management-team-in-a-startup-environment.png)
 
 ## I. Importance of Building a Strong Product Management Team
 

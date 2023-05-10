@@ -6,7 +6,7 @@ description: Discuss the biggest challenges and misconceptions about working in 
 ---
 # Navigating the Startup World: Insights from a 10-Year Product Management Expert
 
-![Navigating the Startup World: Insights from a 10-Year Product Management Expert](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/23-navigating-the-startup-world.png)
+![Navigating the Startup World: Insights from a 10-Year Product Management Expert](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/23-navigating-the-startup-world.png)
 
 ## I. Navigating the World of Startups
 

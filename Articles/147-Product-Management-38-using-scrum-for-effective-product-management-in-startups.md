@@ -6,7 +6,7 @@ description: This article discusses how to use scrum for effective product manag
 ---
 # Using Scrum for Effective Product Management in Startups
 
-![Using Scrum for Effective Product Management in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/38-using-scrum-for-effective-product-management-in-startups.png)
+![Using Scrum for Effective Product Management in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/38-using-scrum-for-effective-product-management-in-startups.png)
 
 ## I. Scrum for Product Management in Startups
 

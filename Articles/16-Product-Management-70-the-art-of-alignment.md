@@ -6,7 +6,7 @@ description: As a director of product, I have seen first-hand the importance of 
 ---
 # The Art of Alignment: How to Align Product and Engineering Teams for Maximum Efficiency
 
-![The Art of Alignment: How to Align Product and Engineering Teams for Maximum Efficiency](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/70-the-art-of-alignment.png)
+![The Art of Alignment: How to Align Product and Engineering Teams for Maximum Efficiency](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/70-the-art-of-alignment.png)
 
 ## I. Importance of Aligning Product and Engineering Teams
 

@@ -6,7 +6,7 @@ description: Argue that failure is an essential component of innovation in start
 ---
 # The Role of Failure in Fostering Innovation in Startups 
 
-![The Role of Failure in Fostering Innovation in Startups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/149-the-role-of-failure-in-fostering-innovation-in-startups-.png)
+![The Role of Failure in Fostering Innovation in Startups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/149-the-role-of-failure-in-fostering-innovation-in-startups-.png)
 
 ## I. Failure as the Key to Innovation
 

@@ -6,7 +6,7 @@ description: Discuss the role of agile methodology in product development for te
 ---
 # The Role of Agile Methodology in Product Development
 
-![The Role of Agile Methodology in Product Development](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/97-the-role-of-agile-methodology-in-product-development.png)
+![The Role of Agile Methodology in Product Development](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/97-the-role-of-agile-methodology-in-product-development.png)
 
 ## I. The Importance of Agile Methodology in Product Development
 

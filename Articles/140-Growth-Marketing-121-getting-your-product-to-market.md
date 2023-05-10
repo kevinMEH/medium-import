@@ -6,7 +6,7 @@ description: This article provides tips and strategies for getting a product to 
 ---
 # Getting Your Product to Market: Launch Strategies for Tech Startups
 
-![Getting Your Product to Market: Launch Strategies for Tech Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/121-getting-your-product-to-market.png)
+![Getting Your Product to Market: Launch Strategies for Tech Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/121-getting-your-product-to-market.png)
 
 ## I. The Importance of Effective Launch Strategies for Tech Startups
 

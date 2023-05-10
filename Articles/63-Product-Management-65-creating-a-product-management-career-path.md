@@ -6,7 +6,7 @@ description: This article explores tips and best practices for creating a produc
 ---
 # Creating a Product Management Career Path: Tips and Best Practices for Growth
 
-![Creating a Product Management Career Path: Tips and Best Practices for Growth](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/65-creating-a-product-management-career-path.png)
+![Creating a Product Management Career Path: Tips and Best Practices for Growth](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/65-creating-a-product-management-career-path.png)
 
 ## I. Creating a Clear Career Path for Product Managers 
 

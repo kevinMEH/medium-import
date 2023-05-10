@@ -6,7 +6,7 @@ description: This article explores the importance of creating a supportive cultu
 ---
 # Creating a Supportive Culture: Why It's Important and How to Do It
 
-![Creating a Supportive Culture: Why It's Important and How to Do It](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/29-creating-a-supportive-culture.png)
+![Creating a Supportive Culture: Why It's Important and How to Do It](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/29-creating-a-supportive-culture.png)
 
 ## I. The Importance of a Supportive Culture in Startups
 

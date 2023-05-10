@@ -6,7 +6,7 @@ description: This article explores the benefits and challenges of implementing a
 ---
 # The Benefits and Challenges of Implementing Agile Methodology in Product Management
 
-![The Benefits and Challenges of Implementing Agile Methodology in Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/41-the-benefits-and-challenges-of-implementing-agile-methodology-in-product-management.png)
+![The Benefits and Challenges of Implementing Agile Methodology in Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/41-the-benefits-and-challenges-of-implementing-agile-methodology-in-product-management.png)
 
 ## I. Why Agile Methodology Is Important in Product Management
 

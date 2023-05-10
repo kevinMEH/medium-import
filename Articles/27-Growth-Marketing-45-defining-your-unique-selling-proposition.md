@@ -6,7 +6,7 @@ description: This article will delve into the importance of crafting a unique se
 ---
 # Defining Your Unique Selling Proposition: A Guide for Growth Marketing in Competitive Markets 
 
-![Defining Your Unique Selling Proposition: A Guide for Growth Marketing in Competitive Markets ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/45-defining-your-unique-selling-proposition.png)
+![Defining Your Unique Selling Proposition: A Guide for Growth Marketing in Competitive Markets ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/45-defining-your-unique-selling-proposition.png)
 
 ## I. Crafting a Strong Unique Selling Proposition
 

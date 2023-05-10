@@ -6,7 +6,7 @@ description: This article discusses the importance of user acquisition for growt
 ---
 # Optimizing User Acquisition in Growth Marketing for Tech Startups
 
-![Optimizing User Acquisition in Growth Marketing for Tech Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/125-optimizing-user-acquisition-in-growth-marketing-for-tech-startups.png)
+![Optimizing User Acquisition in Growth Marketing for Tech Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/125-optimizing-user-acquisition-in-growth-marketing-for-tech-startups.png)
 
 ## I. The Importance of User Acquisition for Tech Startups
 

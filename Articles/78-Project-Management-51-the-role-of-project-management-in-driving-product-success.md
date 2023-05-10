@@ -6,7 +6,7 @@ description: Examine the role of project management in driving product success a
 ---
 # The Role of Project Management in Driving Product Success
 
-![The Role of Project Management in Driving Product Success](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/51-the-role-of-project-management-in-driving-product-success.png)
+![The Role of Project Management in Driving Product Success](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/51-the-role-of-project-management-in-driving-product-success.png)
 
 ## I. Understanding the Importance of Project Management in Product Development
 

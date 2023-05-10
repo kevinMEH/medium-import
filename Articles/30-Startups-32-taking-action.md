@@ -6,7 +6,7 @@ description: This article focuses on the importance of taking action and provide
 ---
 # Taking Action: How to Apply What You've Learned and Move Forward
 
-![Taking Action: How to Apply What You've Learned and Move Forward](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/32-taking-action.png)
+![Taking Action: How to Apply What You've Learned and Move Forward](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/32-taking-action.png)
 
 ## I. Taking Action: How to Apply What You've Learned and Move Forward
 

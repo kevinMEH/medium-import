@@ -6,7 +6,7 @@ description: Share insights on how to build effective product roadmaps that driv
 ---
 # How to Build Effective Product Roadmaps That Drive Growth
 
-![How to Build Effective Product Roadmaps That Drive Growth](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/96-how-to-build-effective-product-roadmaps-that-drive-growth.png)
+![How to Build Effective Product Roadmaps That Drive Growth](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/96-how-to-build-effective-product-roadmaps-that-drive-growth.png)
 
 ## I. How Product Roadmaps Play a Vital Role in Start-up Success
 

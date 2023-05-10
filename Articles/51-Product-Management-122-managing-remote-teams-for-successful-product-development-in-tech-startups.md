@@ -6,7 +6,7 @@ description: This article discusses the challenges of managing remote teams in t
 ---
 # Managing Remote Teams for Successful Product Development in Tech Startups
 
-![Managing Remote Teams for Successful Product Development in Tech Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/122-managing-remote-teams-for-successful-product-development-in-tech-startups.png)
+![Managing Remote Teams for Successful Product Development in Tech Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/122-managing-remote-teams-for-successful-product-development-in-tech-startups.png)
 
 ## I. Managing Remote Teams in Tech Startups
 

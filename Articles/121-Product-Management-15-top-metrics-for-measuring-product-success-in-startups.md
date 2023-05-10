@@ -6,7 +6,7 @@ description: This article provides top metrics for measuring product success in 
 ---
 # Top Metrics for Measuring Product Success in Startups
 
-![Top Metrics for Measuring Product Success in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/15-top-metrics-for-measuring-product-success-in-startups.png)
+![Top Metrics for Measuring Product Success in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/15-top-metrics-for-measuring-product-success-in-startups.png)
 
 ## I. What are the top metrics for measuring product success in startups?
 

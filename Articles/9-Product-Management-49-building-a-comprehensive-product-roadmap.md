@@ -6,7 +6,7 @@ description: Discuss the best practices for building a comprehensive product roa
 ---
 # Building a Comprehensive Product Roadmap: Best Practices and Common Challenges
 
-![Building a Comprehensive Product Roadmap: Best Practices and Common Challenges](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/49-building-a-comprehensive-product-roadmap.png)
+![Building a Comprehensive Product Roadmap: Best Practices and Common Challenges](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/49-building-a-comprehensive-product-roadmap.png)
 
 ## I. Building a Comprehensive Product Roadmap
 

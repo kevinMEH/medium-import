@@ -6,7 +6,7 @@ description: This article will explore the ins and outs of product roadmapping f
 ---
 # How to Successfully Manage Product Roadmaps for Start-Ups 
 
-![How to Successfully Manage Product Roadmaps for Start-Ups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/92-how-to-successfully-manage-product-roadmaps-for-start-ups-.png)
+![How to Successfully Manage Product Roadmaps for Start-Ups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/92-how-to-successfully-manage-product-roadmaps-for-start-ups-.png)
 
 ## I. Implementing an Effective Product Roadmap
 

@@ -6,7 +6,7 @@ description: This article discusses how to balance flexibility and structure in 
 ---
 # Agile Methodology and Product Management: How to Balance Flexibility and Structure
 
-![Agile Methodology and Product Management: How to Balance Flexibility and Structure](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/34-agile-methodology-and-product-management.png)
+![Agile Methodology and Product Management: How to Balance Flexibility and Structure](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/34-agile-methodology-and-product-management.png)
 
 ## I. Balancing Flexibility and Structure in Product Development
 

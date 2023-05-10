@@ -6,7 +6,7 @@ description: This article provides strategies for balancing short-term objective
 ---
 # Strategies for Balancing Short-Term Objectives and Long-Term Vision in Product Management
 
-![Strategies for Balancing Short-Term Objectives and Long-Term Vision in Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/66-strategies-for-balancing-short-term-objectives-and-long-term-vision-in-product-management.png)
+![Strategies for Balancing Short-Term Objectives and Long-Term Vision in Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/66-strategies-for-balancing-short-term-objectives-and-long-term-vision-in-product-management.png)
 
 ## I. Balancing Short-Term Objectives and Long-Term Vision in Product Management
 

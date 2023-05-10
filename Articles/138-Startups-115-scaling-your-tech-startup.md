@@ -6,7 +6,7 @@ description: The article addresses the challenges that tech startups face when t
 ---
 # Scaling Your Tech Startup: Challenges and Strategies
 
-![Scaling Your Tech Startup: Challenges and Strategies](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/115-scaling-your-tech-startup.png)
+![Scaling Your Tech Startup: Challenges and Strategies](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/115-scaling-your-tech-startup.png)
 
 ## I. The Scaling Challenges Faced by Tech Startups
 

@@ -6,7 +6,7 @@ description: Share insights and strategies that I have learned through my experi
 ---
 # The Art of Scaling: Lessons Learned from My Experience in Tech Startups 
 
-![The Art of Scaling: Lessons Learned from My Experience in Tech Startups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/83-the-art-of-scaling.png)
+![The Art of Scaling: Lessons Learned from My Experience in Tech Startups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/83-the-art-of-scaling.png)
 
 ## I. The Importance of Scaling Your Tech Startup 
 

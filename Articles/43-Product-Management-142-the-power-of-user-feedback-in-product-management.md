@@ -6,7 +6,7 @@ description: As a product manager, one of the most valuable sources of informati
 ---
 # The Power of User Feedback in Product Management 
 
-![The Power of User Feedback in Product Management ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/142-the-power-of-user-feedback-in-product-management-.png)
+![The Power of User Feedback in Product Management ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/142-the-power-of-user-feedback-in-product-management-.png)
 
 ## I. The Importance of User Feedback in Product Management
 

@@ -6,7 +6,7 @@ description: Share my experience and best practices for raising seed funding for
 ---
 # Navigating the Seed Round: Tips for Successfully Raising Capital 
 
-![Navigating the Seed Round: Tips for Successfully Raising Capital ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/85-navigating-the-seed-round.png)
+![Navigating the Seed Round: Tips for Successfully Raising Capital ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/85-navigating-the-seed-round.png)
 
 ## I. Navigating the Seed Round: Challenges and Opportunities
 

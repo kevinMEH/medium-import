@@ -6,7 +6,7 @@ description: Product success is not only about having a great product idea but a
 ---
 # Leading the Charge: How Product Managers Drive Product Success through Cross-Functional Collaboration 
 
-![Leading the Charge: How Product Managers Drive Product Success through Cross-Functional Collaboration ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/103-leading-the-charge.png)
+![Leading the Charge: How Product Managers Drive Product Success through Cross-Functional Collaboration ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/103-leading-the-charge.png)
 
 ## I. The Power of Collaboration
 

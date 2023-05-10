@@ -6,7 +6,7 @@ description: This article provides guidance on developing a product management f
 ---
 # Developing a Product Management Framework for Startups
 
-![Developing a Product Management Framework for Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/104-developing-a-product-management-framework-for-startups.png)
+![Developing a Product Management Framework for Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/104-developing-a-product-management-framework-for-startups.png)
 
 ## I. Understanding Product Management for Startups
 

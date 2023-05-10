@@ -6,7 +6,7 @@ description: This article discusses how agile methodology and customer-centric p
 ---
 # Agile Methodology and Customer Centric Product Development: A Perfect Pair
 
-![Agile Methodology and Customer Centric Product Development: A Perfect Pair](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/40-agile-methodology-and-customer-centric-product-development.png)
+![Agile Methodology and Customer Centric Product Development: A Perfect Pair](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/40-agile-methodology-and-customer-centric-product-development.png)
 
 ## I. Why Agile and Customer-Centricity are a Match Made in Heaven
 

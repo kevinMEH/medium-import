@@ -6,7 +6,7 @@ description: Discuss the importance of pricing strategies in product management 
 ---
 # The Art of Pricing: How to Price Your Product Effectively 
 
-![The Art of Pricing: How to Price Your Product Effectively ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/139-the-art-of-pricing.png)
+![The Art of Pricing: How to Price Your Product Effectively ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/139-the-art-of-pricing.png)
 
 ## I. The Importance of Pricing Strategies 
 

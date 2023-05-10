@@ -6,7 +6,7 @@ description: Drawing on my experience as a director of product based in Dubai, U
 ---
 # The Importance of Product-Market Fit in Startups
 
-![The Importance of Product-Market Fit in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/93-the-importance-of-product-market-fit-in-startups.png)
+![The Importance of Product-Market Fit in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/93-the-importance-of-product-market-fit-in-startups.png)
 
 ## I. The Critical Role of Product-Market Fit in Building Successful Startups
 

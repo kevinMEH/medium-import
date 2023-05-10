@@ -6,7 +6,7 @@ description: This article provides insights into effective time management for p
 ---
 # Effective Time Management for Project Managers in Startups
 
-![Effective Time Management for Project Managers in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/9-effective-time-management-for-project-managers-in-startups.png)
+![Effective Time Management for Project Managers in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/9-effective-time-management-for-project-managers-in-startups.png)
 
 ## I. Effective Time Management for Project Managers in Startups
 

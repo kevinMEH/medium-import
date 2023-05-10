@@ -6,7 +6,7 @@ description: This article provides strategies for maximizing the potential of us
 ---
 # Maximizing the Potential of User Feedback for Product Development
 
-![Maximizing the Potential of User Feedback for Product Development](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/8-maximizing-the-potential-of-user-feedback-for-product-development.png)
+![Maximizing the Potential of User Feedback for Product Development](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/8-maximizing-the-potential-of-user-feedback-for-product-development.png)
 
 ## I. How User Feedback Can Transform Your Product Development Process
 

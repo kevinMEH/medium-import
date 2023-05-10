@@ -6,7 +6,7 @@ description: This article provides guidance on how to effectively gather and inc
 ---
 # The Art of Feedback: How to Effectively Gather and Incorporate User Feedback in Product Management for Startups
 
-![The Art of Feedback: How to Effectively Gather and Incorporate User Feedback in Product Management for Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/127-the-art-of-feedback.png)
+![The Art of Feedback: How to Effectively Gather and Incorporate User Feedback in Product Management for Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/127-the-art-of-feedback.png)
 
 ## I. The Importance of User Feedback in Product Management for Startups
 

@@ -6,7 +6,7 @@ description: Explain how to develop a comprehensive growth marketing plan that l
 ---
 # Building a Winning Growth Marketing Strategy from Scratch
 
-![Building a Winning Growth Marketing Strategy from Scratch](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/27-building-a-winning-growth-marketing-strategy-from-scratch.png)
+![Building a Winning Growth Marketing Strategy from Scratch](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/27-building-a-winning-growth-marketing-strategy-from-scratch.png)
 
 ## I. Developing a Growth Marketing Plan
 

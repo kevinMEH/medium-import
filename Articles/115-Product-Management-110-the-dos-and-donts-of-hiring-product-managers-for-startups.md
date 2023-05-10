@@ -6,7 +6,7 @@ description: This article covers the dos and don'ts of hiring product managers f
 ---
 # The Dos and Donts of Hiring Product Managers for Startups
 
-![The Dos and Donts of Hiring Product Managers for Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/110-the-dos-and-donts-of-hiring-product-managers-for-startups.png)
+![The Dos and Donts of Hiring Product Managers for Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/110-the-dos-and-donts-of-hiring-product-managers-for-startups.png)
 
 ## I. Hiring the Right Product Manager for Your Startup
 

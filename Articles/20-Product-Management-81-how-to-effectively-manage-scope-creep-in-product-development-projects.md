@@ -6,7 +6,7 @@ description: This article provides strategies and best practices for managing sc
 ---
 # How to Effectively Manage Scope Creep in Product Development Projects
 
-![How to Effectively Manage Scope Creep in Product Development Projects](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/81-how-to-effectively-manage-scope-creep-in-product-development-projects.png)
+![How to Effectively Manage Scope Creep in Product Development Projects](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/81-how-to-effectively-manage-scope-creep-in-product-development-projects.png)
 
 ## I. Understanding Scope Creep in Product Development Projects
 

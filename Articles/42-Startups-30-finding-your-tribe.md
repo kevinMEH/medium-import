@@ -6,7 +6,7 @@ description: This article provides guidance on how to build a network of mentors
 ---
 # Finding Your Tribe: How to Build a Network of Mentors and Peers
 
-![Finding Your Tribe: How to Build a Network of Mentors and Peers](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/30-finding-your-tribe.png)
+![Finding Your Tribe: How to Build a Network of Mentors and Peers](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/30-finding-your-tribe.png)
 
 ## I. Building Your Tribe
 

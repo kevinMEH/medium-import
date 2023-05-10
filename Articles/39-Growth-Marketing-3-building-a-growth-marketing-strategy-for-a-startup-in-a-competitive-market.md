@@ -6,7 +6,7 @@ description: This article provides insights into building a growth marketing str
 ---
 # Building a Growth Marketing Strategy for a Startup in a Competitive Market
 
-![Building a Growth Marketing Strategy for a Startup in a Competitive Market](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/3-building-a-growth-marketing-strategy-for-a-startup-in-a-competitive-market.png)
+![Building a Growth Marketing Strategy for a Startup in a Competitive Market](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/3-building-a-growth-marketing-strategy-for-a-startup-in-a-competitive-market.png)
 
 ## I. Creating a Growth Marketing Strategy for Startups in Competitive Markets
 

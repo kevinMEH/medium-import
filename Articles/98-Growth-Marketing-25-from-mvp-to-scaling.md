@@ -6,7 +6,7 @@ description: Share your process for testing and iterating on your minimum viable
 ---
 # From MVP to Scaling: A Playbook for Successful Product Launches
 
-![From MVP to Scaling: A Playbook for Successful Product Launches](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/25-from-mvp-to-scaling.png)
+![From MVP to Scaling: A Playbook for Successful Product Launches](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/25-from-mvp-to-scaling.png)
 
 ## I.  The Importance of MVP Testing and Scaling
 

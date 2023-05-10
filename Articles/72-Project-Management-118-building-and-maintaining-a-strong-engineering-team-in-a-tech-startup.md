@@ -6,7 +6,7 @@ description: This article provides tips for building and maintaining a strong en
 ---
 # Building and Maintaining a Strong Engineering Team in a Tech Startup
 
-![Building and Maintaining a Strong Engineering Team in a Tech Startup](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/118-building-and-maintaining-a-strong-engineering-team-in-a-tech-startup.png)
+![Building and Maintaining a Strong Engineering Team in a Tech Startup](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/118-building-and-maintaining-a-strong-engineering-team-in-a-tech-startup.png)
 
 ## I. Building a Strong Engineering Team in a Tech Startup
 

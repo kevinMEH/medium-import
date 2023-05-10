@@ -6,7 +6,7 @@ description: This article provides tips and tricks for project managers in start
 ---
 # Top Tips and Tricks for Better Project Management in Startups
 
-![Top Tips and Tricks for Better Project Management in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/1-top-tips-and-tricks-for-better-project-management-in-startups.png)
+![Top Tips and Tricks for Better Project Management in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/1-top-tips-and-tricks-for-better-project-management-in-startups.png)
 
 ## I. Best Practices for Project Management in Startups
 

@@ -6,7 +6,7 @@ description: This article discusses the importance of developing a strong leader
 ---
 # Developing a Strong Leadership Presence in Product Management
 
-![Developing a Strong Leadership Presence in Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/63-developing-a-strong-leadership-presence-in-product-management.png)
+![Developing a Strong Leadership Presence in Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/63-developing-a-strong-leadership-presence-in-product-management.png)
 
 ## I. The Importance of Leadership Presence in Product Management
 

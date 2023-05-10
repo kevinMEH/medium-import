@@ -6,7 +6,7 @@ description: This article discusses the importance of building and maintaining r
 ---
 # The Importance of Building and Maintaining Relationships in Product Management
 
-![The Importance of Building and Maintaining Relationships in Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/64-the-importance-of-building-and-maintaining-relationships-in-product-management.png)
+![The Importance of Building and Maintaining Relationships in Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/64-the-importance-of-building-and-maintaining-relationships-in-product-management.png)
 
 ## I. The Power of Relationships in Product Management
 

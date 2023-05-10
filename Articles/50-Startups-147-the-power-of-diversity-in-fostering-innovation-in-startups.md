@@ -6,7 +6,7 @@ description: Discuss the importance of having a diverse team in a startup and ho
 ---
 # The Power of Diversity in Fostering Innovation in Startups 
 
-![The Power of Diversity in Fostering Innovation in Startups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/147-the-power-of-diversity-in-fostering-innovation-in-startups-.png)
+![The Power of Diversity in Fostering Innovation in Startups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/147-the-power-of-diversity-in-fostering-innovation-in-startups-.png)
 
 ## I. Why diversity matters in startups
 

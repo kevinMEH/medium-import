@@ -6,7 +6,7 @@ description: Offer advice on how to effectively build and manage a high-performa
 ---
 # Scaling Your Team: How to Hire the Right People for Your Startup 
 
-![Scaling Your Team: How to Hire the Right People for Your Startup ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/86-scaling-your-team.png)
+![Scaling Your Team: How to Hire the Right People for Your Startup ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/86-scaling-your-team.png)
 
 ## I. Hiring the Right People for Startup Success
 

@@ -6,7 +6,7 @@ description: This article will walk through the growth marketing process from id
 ---
 # From Idea to Launch: A Product Managers Guide to Growth Marketing 
 
-![From Idea to Launch: A Product Managers Guide to Growth Marketing ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/48-from-idea-to-launch.png)
+![From Idea to Launch: A Product Managers Guide to Growth Marketing ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/48-from-idea-to-launch.png)
 
 ## I. The Importance of Growth Marketing for Product Managers
 

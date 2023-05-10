@@ -6,7 +6,7 @@ description: As a product director with over 10 years of experience in technolog
 ---
 # The Art of Listening: How to Effectively Collect and Utilize User Feedback for Product Development
 
-![The Art of Listening: How to Effectively Collect and Utilize User Feedback for Product Development](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/73-the-art-of-listening.png)
+![The Art of Listening: How to Effectively Collect and Utilize User Feedback for Product Development](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/73-the-art-of-listening.png)
 
 ## I. Why Listening to User Feedback is Critical
 

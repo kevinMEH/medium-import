@@ -6,7 +6,7 @@ description: This article discusses the importance of user research in product d
 ---
 # The Importance of User Research in Product Development
 
-![The Importance of User Research in Product Development](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/17-the-importance-of-user-research-in-product-development.png)
+![The Importance of User Research in Product Development](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/17-the-importance-of-user-research-in-product-development.png)
 
 ## I. The Role of User Research in Product Development
 

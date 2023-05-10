@@ -6,7 +6,7 @@ description: Negative feedback can be hard to swallow, but it can also be an opp
 ---
 # The Power of Negative Feedback: How to Turn Criticism into Opportunity
 
-![The Power of Negative Feedback: How to Turn Criticism into Opportunity](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/74-the-power-of-negative-feedback.png)
+![The Power of Negative Feedback: How to Turn Criticism into Opportunity](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/74-the-power-of-negative-feedback.png)
 
 ## I. Understanding the Value of Negative Feedback
 

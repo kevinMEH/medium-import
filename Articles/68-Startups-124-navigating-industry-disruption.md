@@ -6,7 +6,7 @@ description: This article explores the concept of industry disruption and how it
 ---
 # Navigating Industry Disruption: Lessons for Tech Startups
 
-![Navigating Industry Disruption: Lessons for Tech Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/124-navigating-industry-disruption.png)
+![Navigating Industry Disruption: Lessons for Tech Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/124-navigating-industry-disruption.png)
 
 ## I. The Impact of Disruption on Tech Startups
 

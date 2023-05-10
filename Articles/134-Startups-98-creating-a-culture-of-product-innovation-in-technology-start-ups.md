@@ -6,7 +6,7 @@ description: Discuss the importance of creating a culture of product innovation 
 ---
 # Creating a Culture of Product Innovation in Technology Start-ups
 
-![Creating a Culture of Product Innovation in Technology Start-ups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/98-creating-a-culture-of-product-innovation-in-technology-start-ups.png)
+![Creating a Culture of Product Innovation in Technology Start-ups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/98-creating-a-culture-of-product-innovation-in-technology-start-ups.png)
 
 ## I. The Importance of a Culture of Innovation
 

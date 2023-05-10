@@ -6,7 +6,7 @@ description: This article offers tips and best practices for crafting a compelli
 ---
 # Crafting a Compelling Product Story: Tips and Best Practices for Product Managers
 
-![Crafting a Compelling Product Story: Tips and Best Practices for Product Managers](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/58-crafting-a-compelling-product-story.png)
+![Crafting a Compelling Product Story: Tips and Best Practices for Product Managers](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/58-crafting-a-compelling-product-story.png)
 
 ## I. The Power of Storytelling
 

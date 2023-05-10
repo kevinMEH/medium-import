@@ -6,7 +6,7 @@ description: This article compares agile methodology and traditional product man
 ---
 # Agile Methodology vs Traditional Product Management: Which is Better?
 
-![Agile Methodology vs Traditional Product Management: Which is Better?](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/42-agile-methodology-vs-traditional-product-management.png)
+![Agile Methodology vs Traditional Product Management: Which is Better?](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/42-agile-methodology-vs-traditional-product-management.png)
 
 ## I. Understanding the Different Approaches
 

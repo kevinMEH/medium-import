@@ -6,7 +6,7 @@ description: The article explains how product managers can prioritize features i
 ---
 # How to Prioritize Features in a Tech Startups Product Development
 
-![How to Prioritize Features in a Tech Startups Product Development](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/113-how-to-prioritize-features-in-a-tech-startups-product-development.png)
+![How to Prioritize Features in a Tech Startups Product Development](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/113-how-to-prioritize-features-in-a-tech-startups-product-development.png)
 
 ## I. Why Prioritization is Critical for Tech Startups
 

@@ -6,7 +6,7 @@ description: Discuss how data-driven product management can unlock business valu
 ---
 # How Data-Driven Product Management Unlock Business Value
 
-![How Data-Driven Product Management Unlock Business Value](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/94-how-data-driven-product-management-unlock-business-value.png)
+![How Data-Driven Product Management Unlock Business Value](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/94-how-data-driven-product-management-unlock-business-value.png)
 
 ## I. The Power of Data-Driven Product Management
 

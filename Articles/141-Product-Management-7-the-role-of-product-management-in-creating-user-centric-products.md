@@ -6,7 +6,7 @@ description: This article explores the role of product management in creating us
 ---
 # The Role of Product Management in Creating User-Centric Products
 
-![The Role of Product Management in Creating User-Centric Products](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/7-the-role-of-product-management-in-creating-user-centric-products.png)
+![The Role of Product Management in Creating User-Centric Products](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/7-the-role-of-product-management-in-creating-user-centric-products.png)
 
 ## I. The Importance of User-Centric Product Development
 

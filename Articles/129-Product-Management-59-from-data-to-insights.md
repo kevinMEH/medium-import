@@ -6,7 +6,7 @@ description: This article explores the role of data analytics in product managem
 ---
 # From Data to Insights: Unlocking the Power of Analytics in Product Management
 
-![From Data to Insights: Unlocking the Power of Analytics in Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/59-from-data-to-insights.png)
+![From Data to Insights: Unlocking the Power of Analytics in Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/59-from-data-to-insights.png)
 
 ## I. The Role of Data Analytics in Product Management
 

@@ -6,7 +6,7 @@ description: This article provides tools and techniques for managing negative th
 ---
 # Getting Out of Your Head: Tools and Techniques for Managing Negative Thoughts
 
-![Getting Out of Your Head: Tools and Techniques for Managing Negative Thoughts](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/36-getting-out-of-your-head.png)
+![Getting Out of Your Head: Tools and Techniques for Managing Negative Thoughts](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/36-getting-out-of-your-head.png)
 
 ## I. Getting Out of Your Head: Finding Inner Peace and Contentment
 

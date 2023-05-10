@@ -6,7 +6,7 @@ description: This article provides guidance on how to create a compelling produc
 ---
 # Creating a Product Vision for Your Tech Startup: Tips and Guidelines
 
-![Creating a Product Vision for Your Tech Startup: Tips and Guidelines](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/123-creating-a-product-vision-for-your-tech-startup.png)
+![Creating a Product Vision for Your Tech Startup: Tips and Guidelines](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/123-creating-a-product-vision-for-your-tech-startup.png)
 
 ## I. The Power of a Strong Product Vision
 

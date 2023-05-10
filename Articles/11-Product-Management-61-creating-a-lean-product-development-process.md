@@ -6,7 +6,7 @@ description: This article discusses the principles of lean product development a
 ---
 # Creating a Lean Product Development Process: Strategies and Best Practices
 
-![Creating a Lean Product Development Process: Strategies and Best Practices](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/61-creating-a-lean-product-development-process.png)
+![Creating a Lean Product Development Process: Strategies and Best Practices](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/61-creating-a-lean-product-development-process.png)
 
 ## I. Principles of Lean Product Development
 

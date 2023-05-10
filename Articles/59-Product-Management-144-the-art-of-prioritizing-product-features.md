@@ -6,7 +6,7 @@ description: As a product manager, one of the biggest challenges is deciding whi
 ---
 # The Art of Prioritizing Product Features 
 
-![The Art of Prioritizing Product Features ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/144-the-art-of-prioritizing-product-features-.png)
+![The Art of Prioritizing Product Features ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/144-the-art-of-prioritizing-product-features-.png)
 
 ## I. Prioritizing Product Features
 

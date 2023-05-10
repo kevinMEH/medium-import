@@ -6,7 +6,7 @@ description: This article discusses the importance of customer feedback in produ
 ---
 # Maximizing the Value of Customer Feedback for Product Development
 
-![Maximizing the Value of Customer Feedback for Product Development](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/56-maximizing-the-value-of-customer-feedback-for-product-development.png)
+![Maximizing the Value of Customer Feedback for Product Development](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/56-maximizing-the-value-of-customer-feedback-for-product-development.png)
 
 ## I. The Crucial Role of Customer Feedback in Product Development
 

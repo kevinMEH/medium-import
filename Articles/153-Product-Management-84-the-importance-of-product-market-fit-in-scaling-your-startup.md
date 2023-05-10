@@ -6,7 +6,7 @@ description: Discuss the critical role that product-market fit plays in scaling 
 ---
 # The Importance of Product-Market Fit in Scaling Your Startup
 
-![The Importance of Product-Market Fit in Scaling Your Startup](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/84-the-importance-of-product-market-fit-in-scaling-your-startup.png)
+![The Importance of Product-Market Fit in Scaling Your Startup](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/84-the-importance-of-product-market-fit-in-scaling-your-startup.png)
 
 ## I. The Crucial Role of Product-Market Fit in Scaling Your Startup
 

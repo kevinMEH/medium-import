@@ -6,7 +6,7 @@ description: In this article, I will explore how AI is transforming project mana
 ---
 # The Power of AI in Project Management: A Close Look at the Latest Trends
 
-![The Power of AI in Project Management: A Close Look at the Latest Trends](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/21-the-power-of-ai-in-project-management.png)
+![The Power of AI in Project Management: A Close Look at the Latest Trends](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/21-the-power-of-ai-in-project-management.png)
 
 ## I. AI in Project Management 
 

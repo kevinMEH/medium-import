@@ -6,7 +6,7 @@ description: Explore the intersection of product management and customer service
 ---
 # The Intersection of Product Management and Customer Service in Startups
 
-![The Intersection of Product Management and Customer Service in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/158-the-intersection-of-product-management-and-customer-service-in-startups.png)
+![The Intersection of Product Management and Customer Service in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/158-the-intersection-of-product-management-and-customer-service-in-startups.png)
 
 ## I. The Role of Customer Service in Product Management
 

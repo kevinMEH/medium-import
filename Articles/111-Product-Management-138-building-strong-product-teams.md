@@ -6,7 +6,7 @@ description: Share tips and best practices for building strong product teams tha
 ---
 # Building Strong Product Teams: Tips and Best Practices 
 
-![Building Strong Product Teams: Tips and Best Practices ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/138-building-strong-product-teams.png)
+![Building Strong Product Teams: Tips and Best Practices ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/138-building-strong-product-teams.png)
 
 ## I. The Importance of Building Strong Product Teams
 

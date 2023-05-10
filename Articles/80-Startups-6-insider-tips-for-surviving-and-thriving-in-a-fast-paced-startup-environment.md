@@ -6,7 +6,7 @@ description: This article provides insider tips for surviving and thriving in a 
 ---
 # Insider Tips for Surviving and Thriving in a Fast-Paced Startup Environment
 
-![Insider Tips for Surviving and Thriving in a Fast-Paced Startup Environment](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/6-insider-tips-for-surviving-and-thriving-in-a-fast-paced-startup-environment.png)
+![Insider Tips for Surviving and Thriving in a Fast-Paced Startup Environment](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/6-insider-tips-for-surviving-and-thriving-in-a-fast-paced-startup-environment.png)
 
 ## I. Surviving and Thriving in the Fast-Paced World of Startups
 

@@ -6,7 +6,7 @@ description: This article explores the benefits and challenges of remote work fo
 ---
 # Maximizing the Benefits of Remote Work for Product Teams in Startups
 
-![Maximizing the Benefits of Remote Work for Product Teams in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/62-maximizing-the-benefits-of-remote-work-for-product-teams-in-startups.png)
+![Maximizing the Benefits of Remote Work for Product Teams in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/62-maximizing-the-benefits-of-remote-work-for-product-teams-in-startups.png)
 
 ## I. Remote work as a new norm in startups 
 

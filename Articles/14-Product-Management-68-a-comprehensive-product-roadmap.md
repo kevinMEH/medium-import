@@ -6,7 +6,7 @@ description: In this article, I will share my extensive experience as a director
 ---
 # A Comprehensive Product Roadmap: Best Practices and Common Challenges
 
-![A Comprehensive Product Roadmap: Best Practices and Common Challenges](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/68-a-comprehensive-product-roadmap.png)
+![A Comprehensive Product Roadmap: Best Practices and Common Challenges](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/68-a-comprehensive-product-roadmap.png)
 
 ## I. The Importance of a Comprehensive Product Roadmap
 

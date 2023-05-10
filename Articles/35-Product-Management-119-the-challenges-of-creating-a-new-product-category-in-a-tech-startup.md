@@ -6,7 +6,7 @@ description: This article discusses the challenges that tech startups face when 
 ---
 # The Challenges of Creating a New Product Category in a Tech Startup
 
-![The Challenges of Creating a New Product Category in a Tech Startup](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/119-the-challenges-of-creating-a-new-product-category-in-a-tech-startup.png)
+![The Challenges of Creating a New Product Category in a Tech Startup](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/119-the-challenges-of-creating-a-new-product-category-in-a-tech-startup.png)
 
 ## I. Understanding the Challenges of Creating a New Product Category in a Tech Startup
 

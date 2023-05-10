@@ -6,7 +6,7 @@ description: Share my experience and insights on how to pivot effectively in tec
 ---
 # Mastering the Pivot: How to Successfully Change Course in Your Startup
 
-![Mastering the Pivot: How to Successfully Change Course in Your Startup](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/87-mastering-the-pivot.png)
+![Mastering the Pivot: How to Successfully Change Course in Your Startup](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/87-mastering-the-pivot.png)
 
 ## I. The Importance of Mastering the Pivot in Tech Startups
 

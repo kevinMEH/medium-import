@@ -6,7 +6,7 @@ description: This article provides tips and strategies for effective time manage
 ---
 # Effective Time Management for Product Managers: Balancing Priorities and Deadlines
 
-![Effective Time Management for Product Managers: Balancing Priorities and Deadlines](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/60-effective-time-management-for-product-managers.png)
+![Effective Time Management for Product Managers: Balancing Priorities and Deadlines](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/60-effective-time-management-for-product-managers.png)
 
 ## I. Mastering Time Management for Product Managers
 

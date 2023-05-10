@@ -6,7 +6,7 @@ description: Drawing from my experience as a director of product based in Dubai,
 ---
 # Measuring Product Success in Startups: Top Metrics to Track
 
-![Measuring Product Success in Startups: Top Metrics to Track](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/126-measuring-product-success-in-startups.png)
+![Measuring Product Success in Startups: Top Metrics to Track](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/126-measuring-product-success-in-startups.png)
 
 ## I. Measuring Product Success: Metrics to Drive Business Growth
 

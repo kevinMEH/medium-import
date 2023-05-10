@@ -6,7 +6,7 @@ description: This article discusses the role of agile methodology in successful 
 ---
 # The Role of Agile Methodology in Successful Product Launches
 
-![The Role of Agile Methodology in Successful Product Launches](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/39-the-role-of-agile-methodology-in-successful-product-launches.png)
+![The Role of Agile Methodology in Successful Product Launches](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/39-the-role-of-agile-methodology-in-successful-product-launches.png)
 
 ## I. How Agile Methodology Drives Successful Product Launches
 

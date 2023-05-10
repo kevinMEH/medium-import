@@ -6,7 +6,7 @@ description: This article discusses the importance of using Agile methodology in
 ---
 # The Importance of Agile Methodology in Product Management
 
-![The Importance of Agile Methodology in Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/2-the-importance-of-agile-methodology-in-product-management.png)
+![The Importance of Agile Methodology in Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/2-the-importance-of-agile-methodology-in-product-management.png)
 
 ## I. Why Agile is Critical for Product Management
 

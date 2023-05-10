@@ -6,7 +6,7 @@ description: This article discusses the role of product management in facilitati
 ---
 # The Role of Product Management in Facilitating Cross-Functional Collaboration
 
-![The Role of Product Management in Facilitating Cross-Functional Collaboration](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/14-the-role-of-product-management-in-facilitating-cross-functional-collaboration.png)
+![The Role of Product Management in Facilitating Cross-Functional Collaboration](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/14-the-role-of-product-management-in-facilitating-cross-functional-collaboration.png)
 
 ## I. Why Product Management is Critical to Collaborative Success
 

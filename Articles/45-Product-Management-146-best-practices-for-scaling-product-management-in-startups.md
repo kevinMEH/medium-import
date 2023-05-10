@@ -6,7 +6,7 @@ description: As a director of product with over 10 years of experience working f
 ---
 # Best Practices for Scaling Product Management in Startups 
 
-![Best Practices for Scaling Product Management in Startups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/146-best-practices-for-scaling-product-management-in-startups-.png)
+![Best Practices for Scaling Product Management in Startups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/146-best-practices-for-scaling-product-management-in-startups-.png)
 
 ## I. Best Practices to Scale Product Management in Startups
 

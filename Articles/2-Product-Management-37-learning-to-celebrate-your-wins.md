@@ -6,7 +6,7 @@ description: This article explores the importance of celebrating wins and cultiv
 ---
 # Learning to Celebrate Your Wins: Cultivating a Positive Mindset in Product Management
 
-![Learning to Celebrate Your Wins: Cultivating a Positive Mindset in Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/37-learning-to-celebrate-your-wins.png)
+![Learning to Celebrate Your Wins: Cultivating a Positive Mindset in Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/37-learning-to-celebrate-your-wins.png)
 
 ## I. Why Celebrating Wins Matters in Product Management
 

@@ -6,7 +6,7 @@ description: Discuss the importance of creating a culture of experimentation and
 ---
 # Creating a Culture of Experimentation and Risk-Taking in Startups
 
-![Creating a Culture of Experimentation and Risk-Taking in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/55-creating-a-culture-of-experimentation-and-risk-taking-in-startups.png)
+![Creating a Culture of Experimentation and Risk-Taking in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/55-creating-a-culture-of-experimentation-and-risk-taking-in-startups.png)
 
 ## I. The Importance of a Culture of Experimentation and Risk-taking in Startups
 

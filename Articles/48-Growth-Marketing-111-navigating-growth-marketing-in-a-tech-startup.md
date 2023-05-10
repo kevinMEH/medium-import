@@ -6,7 +6,7 @@ description: The article discusses growth marketing strategies for startups. It 
 ---
 # Navigating Growth Marketing in a Tech Startup: Tips and Tricks
 
-![Navigating Growth Marketing in a Tech Startup: Tips and Tricks](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/111-navigating-growth-marketing-in-a-tech-startup.png)
+![Navigating Growth Marketing in a Tech Startup: Tips and Tricks](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/111-navigating-growth-marketing-in-a-tech-startup.png)
 
 ## I. Start with the basics
 

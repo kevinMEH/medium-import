@@ -6,7 +6,7 @@ description: Discuss the critical role of product management in driving revenue 
 ---
 # The Role of Product Management in Driving Revenue Growth in Startups
 
-![The Role of Product Management in Driving Revenue Growth in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/156-the-role-of-product-management-in-driving-revenue-growth-in-startups.png)
+![The Role of Product Management in Driving Revenue Growth in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/156-the-role-of-product-management-in-driving-revenue-growth-in-startups.png)
 
 ## I. The Critical Role of Product Management in Startup Revenue Growth
 

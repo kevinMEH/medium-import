@@ -6,7 +6,7 @@ description: Leading the Way: The Role of Leadership in Driving Product Success 
 ---
 # The Role of Leadership in Driving Product Success in Startups 
 
-![The Role of Leadership in Driving Product Success in Startups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/71-the-role-of-leadership-in-driving-product-success-in-startups-.png)
+![The Role of Leadership in Driving Product Success in Startups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/71-the-role-of-leadership-in-driving-product-success-in-startups-.png)
 
 ## I. Leadership as the Key Driver for Product Success
 

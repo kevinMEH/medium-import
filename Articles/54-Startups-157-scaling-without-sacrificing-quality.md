@@ -6,7 +6,7 @@ description: Share best practices for scaling startups without sacrificing quali
 ---
 # Scaling without Sacrificing Quality: Best Practices for Startups
 
-![Scaling without Sacrificing Quality: Best Practices for Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/157-scaling-without-sacrificing-quality.png)
+![Scaling without Sacrificing Quality: Best Practices for Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/157-scaling-without-sacrificing-quality.png)
 
 ## I. Maintaining Quality While Scaling Your Startup
 

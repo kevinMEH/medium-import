@@ -6,7 +6,7 @@ description: This article discusses the importance of building a scalable and su
 ---
 # Building a Scalable and Sustainable Product Development Process for Tech Startups
 
-![Building a Scalable and Sustainable Product Development Process for Tech Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/133-building-a-scalable-and-sustainable-product-development-process-for-tech-startups.png)
+![Building a Scalable and Sustainable Product Development Process for Tech Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/133-building-a-scalable-and-sustainable-product-development-process-for-tech-startups.png)
 
 ## I. Why a Scalable Product Development Process is Critical to Tech Startups
 

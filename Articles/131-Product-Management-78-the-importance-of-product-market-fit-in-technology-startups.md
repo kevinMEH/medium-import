@@ -6,7 +6,7 @@ description: This article highlights the importance of product-market fit in tec
 ---
 # The Importance of Product-Market Fit in Technology Startups
 
-![The Importance of Product-Market Fit in Technology Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/78-the-importance-of-product-market-fit-in-technology-startups.png)
+![The Importance of Product-Market Fit in Technology Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/78-the-importance-of-product-market-fit-in-technology-startups.png)
 
 ## I. Understanding Product-Market Fit
 

@@ -6,7 +6,7 @@ description: Explain the role of product marketing in a successful product launc
 ---
 # Why Product Marketing is Critical for a Successful Product Launch 
 
-![Why Product Marketing is Critical for a Successful Product Launch ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/136-why-product-marketing-is-critical-for-a-successful-product-launch-.png)
+![Why Product Marketing is Critical for a Successful Product Launch ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/136-why-product-marketing-is-critical-for-a-successful-product-launch-.png)
 
 ## I. The Importance of Product Marketing for Successful Product Launches
 

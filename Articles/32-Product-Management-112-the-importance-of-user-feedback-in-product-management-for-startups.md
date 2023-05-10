@@ -6,7 +6,7 @@ description: This article highlights the importance of user feedback in product 
 ---
 # The Importance of User Feedback in Product Management for Startups
 
-![The Importance of User Feedback in Product Management for Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/112-the-importance-of-user-feedback-in-product-management-for-startups.png)
+![The Importance of User Feedback in Product Management for Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/112-the-importance-of-user-feedback-in-product-management-for-startups.png)
 
 ## I. Incorporating User Feedback in Product Development
 

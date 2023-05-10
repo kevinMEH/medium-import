@@ -6,7 +6,7 @@ description: This article explores the psychology of user behavior and the impor
 ---
 # The Psychology of User Behavior: Understanding Your Customer for Tech Startups
 
-![The Psychology of User Behavior: Understanding Your Customer for Tech Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/120-the-psychology-of-user-behavior.png)
+![The Psychology of User Behavior: Understanding Your Customer for Tech Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/120-the-psychology-of-user-behavior.png)
 
 ## I. Understanding the Importance of User Behavior Analysis
 

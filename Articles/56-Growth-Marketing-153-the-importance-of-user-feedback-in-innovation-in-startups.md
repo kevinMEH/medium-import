@@ -6,7 +6,7 @@ description: This article highlights the importance of user feedback in driving 
 ---
 # The Importance of User Feedback in Innovation in Startups
 
-![The Importance of User Feedback in Innovation in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/153-the-importance-of-user-feedback-in-innovation-in-startups.png)
+![The Importance of User Feedback in Innovation in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/153-the-importance-of-user-feedback-in-innovation-in-startups.png)
 
 ## I. How User Feedback Drives Innovation in Startups
 

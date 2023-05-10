@@ -6,7 +6,7 @@ description: This article explores the critical role of product management in dr
 ---
 # The Role of Product Management in Driving Customer Acquisition and Retention in Startups
 
-![The Role of Product Management in Driving Customer Acquisition and Retention in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/80-the-role-of-product-management-in-driving-customer-acquisition-and-retention-in-startups.png)
+![The Role of Product Management in Driving Customer Acquisition and Retention in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/80-the-role-of-product-management-in-driving-customer-acquisition-and-retention-in-startups.png)
 
 ## I. The Importance of Product Management in Customer Acquisition and Retention
 

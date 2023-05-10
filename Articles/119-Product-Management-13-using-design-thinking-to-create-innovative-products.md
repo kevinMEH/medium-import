@@ -6,7 +6,7 @@ description: This article explores how to use design thinking to create innovati
 ---
 # Using Design Thinking to Create Innovative Products
 
-![Using Design Thinking to Create Innovative Products](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/13-using-design-thinking-to-create-innovative-products.png)
+![Using Design Thinking to Create Innovative Products](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/13-using-design-thinking-to-create-innovative-products.png)
 
 ## I. What is Design Thinking?
 

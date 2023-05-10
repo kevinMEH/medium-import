@@ -6,7 +6,7 @@ description: This article discusses the importance of building a culture of data
 ---
 # Building a Culture of Data-Driven Decision Making in Product Management
 
-![Building a Culture of Data-Driven Decision Making in Product Management](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/82-building-a-culture-of-data-driven-decision-making-in-product-management.png)
+![Building a Culture of Data-Driven Decision Making in Product Management](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/82-building-a-culture-of-data-driven-decision-making-in-product-management.png)
 
 ## I. The Importance of Data-Driven Decision Making in Product Management
 

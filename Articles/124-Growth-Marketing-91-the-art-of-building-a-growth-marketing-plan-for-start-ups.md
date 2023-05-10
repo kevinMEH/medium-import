@@ -6,7 +6,7 @@ description: This article will offer practical advice on how to design and imple
 ---
 # The Art of Building a Growth Marketing Plan for Start-ups
 
-![The Art of Building a Growth Marketing Plan for Start-ups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/91-the-art-of-building-a-growth-marketing-plan-for-start-ups.png)
+![The Art of Building a Growth Marketing Plan for Start-ups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/91-the-art-of-building-a-growth-marketing-plan-for-start-ups.png)
 
 ## I. The Importance of Growth Marketing for Start-ups
 

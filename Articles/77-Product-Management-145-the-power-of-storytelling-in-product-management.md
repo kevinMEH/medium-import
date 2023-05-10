@@ -6,7 +6,7 @@ description: Drawing from my experience as a director of product based in Dubai,
 ---
 # The Power of Storytelling in Product Management 
 
-![The Power of Storytelling in Product Management ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/145-the-power-of-storytelling-in-product-management-.png)
+![The Power of Storytelling in Product Management ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/145-the-power-of-storytelling-in-product-management-.png)
 
 ## I. The Power of Storytelling in Product Management
 

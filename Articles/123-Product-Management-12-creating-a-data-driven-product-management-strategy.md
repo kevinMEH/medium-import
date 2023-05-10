@@ -6,7 +6,7 @@ description: This article provides insights into creating a data-driven product 
 ---
 # Creating a Data-Driven Product Management Strategy
 
-![Creating a Data-Driven Product Management Strategy](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/12-creating-a-data-driven-product-management-strategy.png)
+![Creating a Data-Driven Product Management Strategy](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/12-creating-a-data-driven-product-management-strategy.png)
 
 ## I. Creating a Data-Driven Product Management Strategy
 

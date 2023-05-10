@@ -6,7 +6,7 @@ description: This article explores the role of product management in driving inn
 ---
 # The Role of Product Management in Driving Innovation in Startups
 
-![The Role of Product Management in Driving Innovation in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/108-the-role-of-product-management-in-driving-innovation-in-startups.png)
+![The Role of Product Management in Driving Innovation in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/108-the-role-of-product-management-in-driving-innovation-in-startups.png)
 
 ## I. The Importance of Product Management in Driving Innovation in Startups
 

@@ -6,7 +6,7 @@ description: This article will examine how product teams can leverage growth mar
 ---
 # Empowering Your Product Team with Growth Marketing Techniques 
 
-![Empowering Your Product Team with Growth Marketing Techniques ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/47-empowering-your-product-team-with-growth-marketing-techniques-.png)
+![Empowering Your Product Team with Growth Marketing Techniques ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/47-empowering-your-product-team-with-growth-marketing-techniques-.png)
 
 ## I. How Growth Marketing Can Help Your Product Team Succeed
 

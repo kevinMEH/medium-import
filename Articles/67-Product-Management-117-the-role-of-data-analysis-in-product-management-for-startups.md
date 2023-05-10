@@ -6,7 +6,7 @@ description: The article discusses the role of data analysis in product manageme
 ---
 # The Role of Data Analysis in Product Management for Startups
 
-![The Role of Data Analysis in Product Management for Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/117-the-role-of-data-analysis-in-product-management-for-startups.png)
+![The Role of Data Analysis in Product Management for Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/117-the-role-of-data-analysis-in-product-management-for-startups.png)
 
 ## I. Understanding the Key Role of Data Analysis in Product Management for Startups
 

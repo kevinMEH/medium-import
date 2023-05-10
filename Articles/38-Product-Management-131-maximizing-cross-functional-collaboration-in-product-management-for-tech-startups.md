@@ -6,7 +6,7 @@ description: This article discusses the importance of cross-functional collabora
 ---
 # Maximizing Cross-Functional Collaboration in Product Management for Tech Startups
 
-![Maximizing Cross-Functional Collaboration in Product Management for Tech Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/131-maximizing-cross-functional-collaboration-in-product-management-for-tech-startups.png)
+![Maximizing Cross-Functional Collaboration in Product Management for Tech Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/131-maximizing-cross-functional-collaboration-in-product-management-for-tech-startups.png)
 
 ## I. The Importance of Cross-Functional Collaboration in Tech Startups
 

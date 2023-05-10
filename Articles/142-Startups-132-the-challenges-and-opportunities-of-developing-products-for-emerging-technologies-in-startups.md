@@ -6,7 +6,7 @@ description: This article discusses the challenges and opportunities of developi
 ---
 # The Challenges and Opportunities of Developing Products for Emerging Technologies in Startups
 
-![The Challenges and Opportunities of Developing Products for Emerging Technologies in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/132-the-challenges-and-opportunities-of-developing-products-for-emerging-technologies-in-startups.png)
+![The Challenges and Opportunities of Developing Products for Emerging Technologies in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/132-the-challenges-and-opportunities-of-developing-products-for-emerging-technologies-in-startups.png)
 
 ## I. The Potential of Emerging Technologies for Startups
 

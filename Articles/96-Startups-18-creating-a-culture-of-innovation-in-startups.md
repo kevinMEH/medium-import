@@ -6,7 +6,7 @@ description: This article explores how to create a culture of innovation in star
 ---
 # Creating a Culture of Innovation in Startups
 
-![Creating a Culture of Innovation in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/18-creating-a-culture-of-innovation-in-startups.png)
+![Creating a Culture of Innovation in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/18-creating-a-culture-of-innovation-in-startups.png)
 
 ## I. Why Innovation Matters for Startups
 

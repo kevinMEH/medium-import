@@ -6,7 +6,7 @@ description: Data is a powerful tool for product managers, providing insights in
 ---
 # How to Use Data to Drive Product Strategy 
 
-![How to Use Data to Drive Product Strategy ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/143-how-to-use-data-to-drive-product-strategy-.png)
+![How to Use Data to Drive Product Strategy ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/143-how-to-use-data-to-drive-product-strategy-.png)
 
 ## I. Leveraging Data for Strong Product Strategy
 

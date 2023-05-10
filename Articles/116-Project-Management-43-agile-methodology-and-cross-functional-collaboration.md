@@ -6,7 +6,7 @@ description: This article discusses how agile methodology can help maximize effi
 ---
 # Agile Methodology and Cross-Functional Collaboration: Maximizing Efficiency in Startups
 
-![Agile Methodology and Cross-Functional Collaboration: Maximizing Efficiency in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/43-agile-methodology-and-cross-functional-collaboration.png)
+![Agile Methodology and Cross-Functional Collaboration: Maximizing Efficiency in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/43-agile-methodology-and-cross-functional-collaboration.png)
 
 ## I. Why Agile Methodology and Cross-Functional Collaboration are Critical for Startups
 

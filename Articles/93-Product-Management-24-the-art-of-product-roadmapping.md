@@ -6,7 +6,7 @@ description: Provide practical tips and best practices for creating and communic
 ---
 # The Art of Product Roadmapping: How to Prioritize Your Ideas and Align Your Team
 
-![The Art of Product Roadmapping: How to Prioritize Your Ideas and Align Your Team](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/24-the-art-of-product-roadmapping.png)
+![The Art of Product Roadmapping: How to Prioritize Your Ideas and Align Your Team](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/24-the-art-of-product-roadmapping.png)
 
 ## I. The Importance of Product Roadmapping 
 

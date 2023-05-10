@@ -6,7 +6,7 @@ description: Highlight the importance of effective cross-functional collaboratio
 ---
 # Effective Cross-Functional Collaboration for Product Teams in Startups
 
-![Effective Cross-Functional Collaboration for Product Teams in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/50-effective-cross-functional-collaboration-for-product-teams-in-startups.png)
+![Effective Cross-Functional Collaboration for Product Teams in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/50-effective-cross-functional-collaboration-for-product-teams-in-startups.png)
 
 ## I. Importance of Cross-Functional Collaboration
 

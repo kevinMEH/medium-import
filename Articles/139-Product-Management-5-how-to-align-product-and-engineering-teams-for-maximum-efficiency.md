@@ -6,7 +6,7 @@ description: This article provides insights into how to align product and engine
 ---
 # How to Align Product and Engineering Teams for Maximum Efficiency
 
-![How to Align Product and Engineering Teams for Maximum Efficiency](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/5-how-to-align-product-and-engineering-teams-for-maximum-efficiency.png)
+![How to Align Product and Engineering Teams for Maximum Efficiency](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/5-how-to-align-product-and-engineering-teams-for-maximum-efficiency.png)
 
 ## I. The Importance of Aligning Product and Engineering Teams
 

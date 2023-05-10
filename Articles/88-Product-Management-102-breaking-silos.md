@@ -6,7 +6,7 @@ description: Siloed departments can be a major roadblock to achieving success in
 ---
 # Breaking Silos: How Product Management Builds Bridges Across Departments 
 
-![Breaking Silos: How Product Management Builds Bridges Across Departments ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/102-breaking-silos.png)
+![Breaking Silos: How Product Management Builds Bridges Across Departments ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/102-breaking-silos.png)
 
 ## I. Building Bridges in Product Management
 

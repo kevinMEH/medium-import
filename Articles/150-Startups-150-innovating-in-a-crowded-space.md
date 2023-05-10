@@ -6,7 +6,7 @@ description: Share practical tips for startups on how to stand out and innovate 
 ---
 # Innovating in a Crowded Space: Tips for Startups 
 
-![Innovating in a Crowded Space: Tips for Startups ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/150-innovating-in-a-crowded-space.png)
+![Innovating in a Crowded Space: Tips for Startups ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/150-innovating-in-a-crowded-space.png)
 
 ## I. Standing Out in a Crowd
 

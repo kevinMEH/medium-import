@@ -6,7 +6,7 @@ description: Discuss the benefits of using agile development and rapid prototypi
 ---
 # The Power of Agile Development and Rapid Prototyping in Product Management 
 
-![The Power of Agile Development and Rapid Prototyping in Product Management ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/137-the-power-of-agile-development-and-rapid-prototyping-in-product-management-.png)
+![The Power of Agile Development and Rapid Prototyping in Product Management ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/137-the-power-of-agile-development-and-rapid-prototyping-in-product-management-.png)
 
 ## I. The Benefits of Agile Development and Rapid Prototyping in Product Management
 

@@ -6,7 +6,7 @@ description: This article will explore how product management, as a core functio
 ---
 # The Power of Product Management in Fostering Cross-Functional Collaboration 
 
-![The Power of Product Management in Fostering Cross-Functional Collaboration ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/101-the-power-of-product-management-in-fostering-cross-functional-collaboration-.png)
+![The Power of Product Management in Fostering Cross-Functional Collaboration ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/101-the-power-of-product-management-in-fostering-cross-functional-collaboration-.png)
 
 ## I. Building Better Products - Key to a Successful Start-up 
 

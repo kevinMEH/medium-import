@@ -6,7 +6,7 @@ description: This article discusses the importance of reframing failure as an op
 ---
 # Reframing Failure: Turning Setbacks into Opportunities for Growth
 
-![Reframing Failure: Turning Setbacks into Opportunities for Growth](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/31-reframing-failure.png)
+![Reframing Failure: Turning Setbacks into Opportunities for Growth](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/31-reframing-failure.png)
 
 ## I. Reframing Failure: How to Turn Setbacks into Opportunities for Growth
 

@@ -6,7 +6,7 @@ description: This article highlights the power of storytelling in product market
 ---
 # The Power of Storytelling in Product Marketing: Crafting Compelling Narratives for Customers
 
-![The Power of Storytelling in Product Marketing: Crafting Compelling Narratives for Customers](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/67-the-power-of-storytelling-in-product-marketing.png)
+![The Power of Storytelling in Product Marketing: Crafting Compelling Narratives for Customers](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/67-the-power-of-storytelling-in-product-marketing.png)
 
 ## I. Why Storytelling Matters in Product Marketing
 

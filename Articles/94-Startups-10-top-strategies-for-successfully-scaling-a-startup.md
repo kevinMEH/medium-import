@@ -6,7 +6,7 @@ description: This article provides top strategies for successfully scaling a sta
 ---
 # Top Strategies for Successfully Scaling a Startup
 
-![Top Strategies for Successfully Scaling a Startup](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/10-top-strategies-for-successfully-scaling-a-startup.png)
+![Top Strategies for Successfully Scaling a Startup](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/10-top-strategies-for-successfully-scaling-a-startup.png)
 
 ## I. Successfully Scaling Your Startup
 

@@ -6,7 +6,7 @@ description: This article discusses the importance of customer acquisition cost 
 ---
 # The Importance of Customer Acquisition Cost in Growth Marketing
 
-![The Importance of Customer Acquisition Cost in Growth Marketing](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/11-the-importance-of-customer-acquisition-cost-in-growth-marketing.png)
+![The Importance of Customer Acquisition Cost in Growth Marketing](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/11-the-importance-of-customer-acquisition-cost-in-growth-marketing.png)
 
 ## I. Understanding the Significance of Customer Acquisition Cost
 

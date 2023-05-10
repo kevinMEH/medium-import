@@ -6,7 +6,7 @@ description: Analyze how innovation in startups differs at different stages of t
 ---
 # Innovation at Different Stages of a Startups Lifecycle 
 
-![Innovation at Different Stages of a Startups Lifecycle ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/152-innovation-at-different-stages-of-a-startups-lifecycle-.png)
+![Innovation at Different Stages of a Startups Lifecycle ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/152-innovation-at-different-stages-of-a-startups-lifecycle-.png)
 
 ## I. The Importance of Understanding Innovation at Different Stages of a Startup's Lifecycle
 

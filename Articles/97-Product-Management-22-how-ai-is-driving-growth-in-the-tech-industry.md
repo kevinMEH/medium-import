@@ -6,7 +6,7 @@ description: AI is not just transforming product and project management - it is 
 ---
 # How AI is Driving Growth in the Tech Industry: Insights from a Product Management Expert
 
-![How AI is Driving Growth in the Tech Industry: Insights from a Product Management Expert](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/22-how-ai-is-driving-growth-in-the-tech-industry.png)
+![How AI is Driving Growth in the Tech Industry: Insights from a Product Management Expert](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/22-how-ai-is-driving-growth-in-the-tech-industry.png)
 
 ## I. How AI is Driving Growth in the Tech Industry
 

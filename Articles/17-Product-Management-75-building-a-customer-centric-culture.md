@@ -6,7 +6,7 @@ description: In todays competitive market, its essential to have a customer-cent
 ---
 # Building a Customer-Centric Culture: Why Your Company Needs to Prioritize User Feedback
 
-![Building a Customer-Centric Culture: Why Your Company Needs to Prioritize User Feedback](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/75-building-a-customer-centric-culture.png)
+![Building a Customer-Centric Culture: Why Your Company Needs to Prioritize User Feedback](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/75-building-a-customer-centric-culture.png)
 
 ## I. The Importance of a Customer-Centric Culture
 

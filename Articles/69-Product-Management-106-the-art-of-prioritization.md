@@ -6,7 +6,7 @@ description: This article discusses the art of prioritization and how product ma
 ---
 # The Art of Prioritization: How Product Managers Make Tough Decisions
 
-![The Art of Prioritization: How Product Managers Make Tough Decisions](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/106-the-art-of-prioritization.png)
+![The Art of Prioritization: How Product Managers Make Tough Decisions](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/106-the-art-of-prioritization.png)
 
 ## I. The Importance of Prioritization
 

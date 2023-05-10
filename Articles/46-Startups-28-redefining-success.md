@@ -6,7 +6,7 @@ description: This article focuses on redefining success by setting realistic goa
 ---
 # Redefining Success: How to Set Realistic Goals and Achieve Them
 
-![Redefining Success: How to Set Realistic Goals and Achieve Them](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/28-redefining-success.png)
+![Redefining Success: How to Set Realistic Goals and Achieve Them](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/28-redefining-success.png)
 
 ## I. Redefining Success
 

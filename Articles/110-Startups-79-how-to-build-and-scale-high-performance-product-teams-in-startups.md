@@ -6,7 +6,7 @@ description: This article discusses the key strategies and best practices for bu
 ---
 # How to Build and Scale High-Performance Product Teams in Startups
 
-![How to Build and Scale High-Performance Product Teams in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/79-how-to-build-and-scale-high-performance-product-teams-in-startups.png)
+![How to Build and Scale High-Performance Product Teams in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/79-how-to-build-and-scale-high-performance-product-teams-in-startups.png)
 
 ## I. Building and scaling high-performance product teams for startups
 

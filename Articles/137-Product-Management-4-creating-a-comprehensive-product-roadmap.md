@@ -6,7 +6,7 @@ description: This article provides best practices and common challenges to creat
 ---
 # Creating a Comprehensive Product Roadmap: Best Practices and Common Challenges
 
-![Creating a Comprehensive Product Roadmap: Best Practices and Common Challenges](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/4-creating-a-comprehensive-product-roadmap.png)
+![Creating a Comprehensive Product Roadmap: Best Practices and Common Challenges](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/4-creating-a-comprehensive-product-roadmap.png)
 
 ## I. Understanding the Importance of a Comprehensive Product Roadmap
 

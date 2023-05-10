@@ -6,7 +6,7 @@ description: This article provides tips and best practices for building a strong
 ---
 # How to Build a Strong Product Roadmap in a Tech Startup
 
-![How to Build a Strong Product Roadmap in a Tech Startup](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/109-how-to-build-a-strong-product-roadmap-in-a-tech-startup.png)
+![How to Build a Strong Product Roadmap in a Tech Startup](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/109-how-to-build-a-strong-product-roadmap-in-a-tech-startup.png)
 
 ## I. The Importance of a Strong Product Roadmap
 

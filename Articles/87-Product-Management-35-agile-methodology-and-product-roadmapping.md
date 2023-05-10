@@ -6,7 +6,7 @@ description: Discuss the best practices for product roadmapping using agile meth
 ---
 # Agile Methodology and Product Roadmapping: Best Practices and Common Challenges
 
-![Agile Methodology and Product Roadmapping: Best Practices and Common Challenges](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/35-agile-methodology-and-product-roadmapping.png)
+![Agile Methodology and Product Roadmapping: Best Practices and Common Challenges](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/35-agile-methodology-and-product-roadmapping.png)
 
 ## I. Integrating Agile Methodology in Product Roadmapping
 

@@ -6,7 +6,7 @@ description: This article will discuss the importance of effective time manageme
 ---
 # Mastering Effective Time Management Techniques for Project Managers in Startups
 
-![Mastering Effective Time Management Techniques for Project Managers in Startups](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/77-mastering-effective-time-management-techniques-for-project-managers-in-startups.png)
+![Mastering Effective Time Management Techniques for Project Managers in Startups](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/77-mastering-effective-time-management-techniques-for-project-managers-in-startups.png)
 
 ## I. Why Time Management Is Crucial for Project Managers in Startups
 

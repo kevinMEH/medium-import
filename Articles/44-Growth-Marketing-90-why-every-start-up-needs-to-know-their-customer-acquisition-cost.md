@@ -6,7 +6,7 @@ description: This article will focus on the critical role that customer acquisit
 ---
 # Why Every Start-up Needs to Know Their Customer Acquisition Cost 
 
-![Why Every Start-up Needs to Know Their Customer Acquisition Cost ](https://d1qmn0myl5xd4k.cloudfront.net/image-handler/img/santiagopampillo-medium/hero-images/90-why-every-start-up-needs-to-know-their-customer-acquisition-cost-.png)
+![Why Every Start-up Needs to Know Their Customer Acquisition Cost ](https://sima-resizer-original-images.s3.amazonaws.com/image-handler/img/santiagopampillo-medium/hero-images/90-why-every-start-up-needs-to-know-their-customer-acquisition-cost-.png)
 
 ## I. Understanding the Importance of Customer Acquisition Cost
 
